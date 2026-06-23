@@ -1,8 +1,12 @@
 # Keystroke Monitoring Simulator for Security Research
+
 ## Intern Information
 
-Name: Krithika
-Intern ID: CITS4244
+**Name:** Krithika
+
+**Intern ID:** CITS4244
+
+
 ## Project Overview
 
 
