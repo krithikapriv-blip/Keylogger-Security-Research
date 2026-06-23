@@ -1,6 +1,10 @@
 # Keystroke Monitoring Simulator for Security Research
+## Intern Information
 
+Name: Krithika
+Intern ID: CITS4244
 ## Project Overview
+
 
 This project demonstrates keystroke monitoring concepts in a controlled environment. It captures keyboard events only within the application window and stores them in a log file for educational and cybersecurity research purposes.
 
